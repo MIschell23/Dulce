@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+}
+}
+body{
+	background: #f2f2f2;
+}
+.contenedor{
+	width: 100%;
+	height: 40px;
+	background-image: url(../img/donasportada.jpg);
+}
+.espacio{
+	width: 100%;
+	height: 10px;
+	background: purple;
+}
+.contenedor1{
+	width: 100%;
+	height: 40px;
+	background-image: url(../img/heladoportada.jpg);
+}
+.contenedor2{
+	width: 100%;
+	height: 40px;
+	background-image: url(../img/receta.jpg);
+}
+.contenedor3{
+	width: 100%;
+	height: 40px;
+	background-image: url(../img/postresss.jpg);
+}
+.centrando{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.texto33{
+	color: purple;
+}
